@@ -1,0 +1,26 @@
+body {
+  background: rgb(243, 168, 168);
+}
+
+h1 {
+  text-align: center;
+}
+p {
+  font-size: 25px;
+}
+footer {
+  text-align: center;
+}
+footer a {
+  display: flex-center;
+  font-size: 20px;
+  text-decoration: none;
+  margin: 0 10px;
+  color: rgb(79, 0, 249);
+}
+img {
+  max-width: 600px;
+  margin: 40px auto;
+  border-radius: 10px;
+  display: block;
+}
